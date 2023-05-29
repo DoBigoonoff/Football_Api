@@ -1,0 +1,14 @@
+/Users/dobigoonoff/Projects/Football_bot/Football_API/obj/Release/net7.0/PubTmp/Out/Football_API
+/Users/dobigoonoff/Projects/Football_bot/Football_API/obj/Release/net7.0/PubTmp/Out/appsettings.Development.json
+/Users/dobigoonoff/Projects/Football_bot/Football_API/obj/Release/net7.0/PubTmp/Out/appsettings.json
+/Users/dobigoonoff/Projects/Football_bot/Football_API/obj/Release/net7.0/PubTmp/Out/Football_API.dll
+/Users/dobigoonoff/Projects/Football_bot/Football_API/obj/Release/net7.0/PubTmp/Out/Football_API.deps.json
+/Users/dobigoonoff/Projects/Football_bot/Football_API/obj/Release/net7.0/PubTmp/Out/Football_API.runtimeconfig.json
+/Users/dobigoonoff/Projects/Football_bot/Football_API/obj/Release/net7.0/PubTmp/Out/Football_API.pdb
+/Users/dobigoonoff/Projects/Football_bot/Football_API/obj/Release/net7.0/PubTmp/Out/Microsoft.AspNetCore.OpenApi.dll
+/Users/dobigoonoff/Projects/Football_bot/Football_API/obj/Release/net7.0/PubTmp/Out/Microsoft.OpenApi.dll
+/Users/dobigoonoff/Projects/Football_bot/Football_API/obj/Release/net7.0/PubTmp/Out/Newtonsoft.Json.dll
+/Users/dobigoonoff/Projects/Football_bot/Football_API/obj/Release/net7.0/PubTmp/Out/Npgsql.dll
+/Users/dobigoonoff/Projects/Football_bot/Football_API/obj/Release/net7.0/PubTmp/Out/Swashbuckle.AspNetCore.Swagger.dll
+/Users/dobigoonoff/Projects/Football_bot/Football_API/obj/Release/net7.0/PubTmp/Out/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/dobigoonoff/Projects/Football_bot/Football_API/obj/Release/net7.0/PubTmp/Out/Swashbuckle.AspNetCore.SwaggerUI.dll
